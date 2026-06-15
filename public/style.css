@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: azure;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+}
+
+p{
+    color: blue;
+}
